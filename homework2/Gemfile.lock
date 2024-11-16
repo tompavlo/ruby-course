@@ -1,0 +1,30 @@
+PATH
+  remote: .
+  specs:
+    homework2 (0.1.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    ansi (1.5.0)
+    builder (3.3.0)
+    minitest (5.25.1)
+    minitest-reporters (1.7.1)
+      ansi
+      builder
+      minitest (>= 5.0)
+      ruby-progressbar
+    rake (13.2.1)
+    ruby-progressbar (1.13.0)
+
+PLATFORMS
+  x64-mingw-ucrt
+
+DEPENDENCIES
+  homework2!
+  minitest (~> 5.16)
+  minitest-reporters
+  rake (~> 13.0)
+
+BUNDLED WITH
+   2.5.23

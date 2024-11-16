@@ -60,6 +60,3 @@ class Student
   end
 
 end
-
-me = Student.new("Tomashevskyi", "Pavlo", "2005-08-30")
-puts me.surname
